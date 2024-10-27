@@ -1,5 +1,5 @@
 # Copy for picar3
-
+#cd picar-x/picarx/
 
 from robot_hat import Pin, ADC, PWM, Servo, fileDB
 from robot_hat import Grayscale_Module, Ultrasonic, utils   # ADDED MOTORS 
