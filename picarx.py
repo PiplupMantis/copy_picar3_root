@@ -1,5 +1,8 @@
 # Copy for picar3
-#cd picar-x/picarx/
+# cd picar-x/picarx/
+#----- AFTER MODIFYING PICARX.PY -----
+#cd ~/picar-x
+#sudo python3 setup.py install
 
 from robot_hat import Pin, ADC, PWM, Servo, fileDB
 from robot_hat import Grayscale_Module, Ultrasonic, utils   # ADDED MOTORS 
